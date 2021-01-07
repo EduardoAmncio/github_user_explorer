@@ -6,8 +6,8 @@
 - Redux.
 - Javascript.
 ## APIs:
--[API GitHub](https://api.github.com).
--[API de mapas MapBox](https://www.mapbox.com/).
+- [API GitHub](https://api.github.com).
+- [API de mapas MapBox](https://www.mapbox.com/).
 
 ## O resultado final pode ser acessado em:
 [GitHubUserExplorer](https://5ff68d01cf221d000723f153--elated-meitner-e10c4a.netlify.app) - Via netlify.
