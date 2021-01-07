@@ -44,7 +44,7 @@ const UserInfoMap = () => {
           <img src={gitHubUser.avatar_url} alt="User avatar" />
           <div>
             <h1>{gitHubUser.alias}</h1>
-            <a href={gitHubUser.user_url} target='_blank'>
+            <a href={gitHubUser.user_url} target='_blank' rel="noreferrer">
               <p>Go to my gitHub</p>
             </a>
           </div>
