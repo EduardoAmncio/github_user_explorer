@@ -21,12 +21,12 @@ Independente do resultado agradeço pela oportunidade. Durante o projeto tive a 
 Apensar do tempo disponibilizado ser suficiente para a implementação do projeto (3 dias) na prática consegui trabalhar apenas duas noites, devido as demandas que tenho do trabalho atual. Então optei por fazer o projeto apenas como versão desktop, sem utilizar o padrão de mobile first. Mantive no projeto a utilização do redux para aproveitar a oportunidade e conhecer a tecnologia.
 
 ### Estrutura do projeto:
-**src** - Mantém todo o código do projeto.
-**assets** - Imagens utilizadas.
-**Pages** - As páginas criadas 'Dashboard' e 'UseInfoMap'.
-**Routes** - Estrutura para manipulação das rotas.
-**Services** - Os serviços utilizados.
-**Store** - Estrutura para utilização do redux.
+- **src** - Mantém todo o código do projeto.
+- **assets** - Imagens utilizadas.
+- **Pages** - As páginas criadas 'Dashboard' e 'UseInfoMap'.
+- **Routes** - Estrutura para manipulação das rotas.
+- **Services** - Os serviços utilizados.
+- **Store** - Estrutura para utilização do redux.
 
 
 ### Utilização do projeto:
